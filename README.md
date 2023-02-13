@@ -1,4 +1,4 @@
-# Ready to go React application with pre-configured webpack
+# Ready to go React app with pre-configured Webpack
 
 This repository offers a fast and lean base for developing your React 18 applications. It comes with a pre-configured Webpack development server and includes all you need to start coding in just 3 commands.
 
@@ -11,12 +11,12 @@ This repository offers a fast and lean base for developing your React 18 applica
 
 ### Set up
 
-- `git@github.com:notpg8/base-for-react-projects.git` - Git clone this repository
-- `npm install` - Access project's root directory and install dependencies
+- Clone repo `git clone git@github.com:notpg8/base-for-react-projects.git`
+- Install dependencies `npm install`
 
 ### Run app
 
-- `npm run start-dev` - Launch the pre-configured webpack development server
+- Launch the app `npm run start-dev`
 
 ### Build app
 
