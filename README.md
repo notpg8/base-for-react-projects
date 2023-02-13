@@ -11,7 +11,7 @@ This repository offers a fast and lean base for developing your React 18 applica
 
 ### Set up
 
-- Clone repo `git clone git@github.com:notpg8/base-for-react-projects.git`
+- Click the "Use this template"
 - Install dependencies `npm install`
 
 ### Run app
