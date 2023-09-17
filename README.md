@@ -11,7 +11,6 @@ This repository offers a fast and lean base for developing your React 18 applica
 
 ### Set up
 
-- Click `Use this template`
 - Install dependencies `npm install`
 
 ### Run app
